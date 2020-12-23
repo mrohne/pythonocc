@@ -1,0 +1,15 @@
+[submodule "pythonocc-core"]
+	path = core
+	url = https://github.com/tpaviot/pythonocc-core
+[submodule "pythonocc-generator"]
+	path = generator
+	url = https://github.com/tpaviot/pythonocc-generator
+[submodule "pythonocc-documentation"]
+	path = documentation
+	url = https://github.com/tpaviot/pythonocc-documentation
+[submodule "pythonocc-binderhub"]
+	path = binderhub
+	url = https://github.com/tpaviot/pythonocc-binderhub
+[submodule "pythonocc-demos"]
+	path = demos
+	url = https://github.com/tpaviot/pythonocc-demos
